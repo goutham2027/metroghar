@@ -1,0 +1,8 @@
+# Site settings
+title: Metroghar
+email: goutham@webers.co.in
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://metroghar.in" # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown
